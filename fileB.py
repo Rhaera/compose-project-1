@@ -1,2 +1,1 @@
-print("File B")
-print("B")
+print("File")

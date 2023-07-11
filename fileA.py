@@ -1,6 +1,4 @@
-print("First File and A")
-
-print("New Change")
+print("First File.")
 
 if 2 != 2:
 	print("2")
